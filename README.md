@@ -1,5 +1,5 @@
 <h1 align="center">Hello, there! I'm João Victor Rodrigues! 👨‍💻</h1>
-<h3 align="center">A 25 years old brazilian software developer dicovering the astonishing tech universe!</h3>
+<h3 align="center">A 25 years old brazilian software developer discovering the astonishing tech universe!</h3>
 
 <br />
 
