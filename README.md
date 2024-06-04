@@ -15,16 +15,9 @@
 <br />
 <br />
 
-<h2>📉 My stats</h2>
-
-![João Victor's Github Stats](https://github-readme-stats.vercel.app/api?username=jvpr123&count_private=true&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jvpr123&hide=TeX&layout=compact)
-
-<br />
-
 <h2>💻 Languages</h2>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/php)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
